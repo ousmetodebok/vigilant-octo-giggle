@@ -1,37 +1,65 @@
 ---
 categories: ["Examples", "Placeholders"]
-tags: ["test","docs"] 
-title: "Getting Started"
-linkTitle: "Getting Started"
+tags: ["M19.1","docs"] 
+title: "Håndleddsprotese"
+linkTitle: "Håndleddsprotese-link"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  En liten preview
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Her er hvordan det kunne se utt
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
+# Håndleddsprotese
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+## Innledning
+Håndleddsprotese er alternativ til håndleddsartrodese ved smertefull håndleddsartrose.
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+## Klinikk
+Betydelige håndleddssmerter som medfører redusert funksjon og forringet livskvalitet. Redusert
+håndleddsbevegelighet.
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+## Diagnose
+Røntgen og CT. CT skal vise artrose i håndrot/håndledd inkl i lunatumfasetten. Bildefunn skal
+samsvare med smertelokalisasjon.
 
-## Prerequisites
+## Behandling
+Konservativ behandling med stiv håndleddsmansjett forsøkes først. Hvis konservativ behandling ikke
+fører frem er operativ behandling med protese et alternativ.
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+## Innleggelsesdagen
+Pasientene skriver under samtykke til å være med i oppfølgingsstudie for håndleddsproteser, og
+scores hos fysioterapeut.
 
-## Installation
+## Kirurgisk metode
+Dorsal tilgang til håndleddet. Proksimal rekkereseksjon. 3. CMC-ledd fjernes for artrodese. Det
+reames gjennom capitatum og forbi isthmus av 3. metacarp. Deretter reames opp i radius før
+radiusprotesen skrues inn. Skruene skal sitte solid i cortex. Pøvekomponenter benyttes til å
+bestemme halslengde på leddhodet før polyethylenkopp og metallhode settes på.
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+{{% pageinfo %}}
+Typisk operativ koder er M19.1 Posttraumatisk artorse i andre ledd
+{{% /pageinfo %}}
 
-## Setup
+## Postoperativ smertelindring
+Plexus singleshot med virkning til neste morgen. Armen skal henge høyt for å motvirke hevelse.
+Oxycontin og paracet, samt oxynorm ved behov. Det hender at gipsen må klippes opp grunnet
+hevelse. I så tilfelle skiftes gipsen på poliklinikken før hjemreise.
 
-Is there any initial setup users need to do after installation to try your project?
+Pasientene skal ikke reise hjem før sensibilitet i medianusgebetet er normalt. Ved fortsatt
+nummenhet i fingre dag 3 etter operasjon bør carpaltunnelen spaltes for å forhindre kronisk nervus
+medianusskade.
 
-## Try it out!
+## Etterbehandlling
+Gips 6 uker med bytte hos sårsykepleier etter 2 uker.
 
-Can your users test their installation, for example by running a command or deploying a Hello World example?
+## Oppfølging
+Ktrl etter 6 mndr, 1, 2 (grunnet ny MoP artikulasjon), 5, 10 og 15 år med rtg. Pasientene skal til
+fysioterapeut ved alle kontroller fra 6 måneder for å scores i pågående prospektiv oppfølgingsstudie.
+
+{{% pageinfo %}}
+Typisk kontrol koder er:
+* Z47.8 Annen spesifert ortopedisk etter behandling (Skifte kontoll eller fjerning av gips etc)
+{{% /pageinfo %}}
